@@ -4,7 +4,7 @@ NYC city bike Business Mode Application In Des Mones
 # Purpose of Analysis
 This analysis provides the number of user, types of user and the usage of bike in space and time distriubtion to give investor 
 a general idea of what City Bike is doing in NYC can be replicated in DesMoines.
-[link to dashboard](https://www.public.tableau.com/profile/nacos2984#!/vizhome/citybike_16030920688480/Story1)
+[link to dashboard](https://public.tableau.com/profile/nacos2984#!/vizhome/citybike_16030920688480/Story1)
 ## Analyzing the data from 3 perspect
 ### Statistic Summery
 The general description of rides data in August.The Total rides of city bikes in August was 2,344,244, among them 1,900,359 of them are from regular users or Subscribers, and take 81 percent of total rides. the rest are non-subscibers. In category of gender, there are 1,530,272 are male customer, 588,431 are female user, and rest of them with gender
